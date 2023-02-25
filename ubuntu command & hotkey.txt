@@ -11,6 +11,7 @@ mv          移动文件
 ping
 ps -aux     查看进程详情
 pstree      查看进程树
+pwd         查看当前工作目录的路径
 rm -rf      删除文件
 rmdir       删除文件
 touch       创建文件
