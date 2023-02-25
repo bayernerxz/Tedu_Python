@@ -1,0 +1,6 @@
+.idea
+.vscode/
+*.exe
+*.docx
+venv/
+__pychache__/

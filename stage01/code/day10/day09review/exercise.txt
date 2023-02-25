@@ -1,0 +1,31 @@
+day09作业
+1.三合一(面向对象)
+2．复习购物车重构版本，体会重构作用．
+3．复习2048核心算法﹐体会降维思想.
+4．(扩展)自行编写其他消除类游戏:消消乐，消灭星星...
+5．以万物皆对象的思想﹐洞察客观实物﹖
+随意创建两个类﹐四个对象﹐并调用其方法．
+
+class Printer：
+    def __init__(self,brand,type):
+        self.brand=brand
+        self.type=type
+
+    def printing():
+        print("%s的%s正在打印。"%(self.brand,self.type))
+
+class National_team:
+    def __init__(self,nation,continent)
+        self.nation=nation
+        self.continent = continent
+
+    def participate_world_cup():
+        self.print("%s的%s队打进了世界杯。"%(self.continent,self.nation))
+
+
+office1_printer=Printer("HP","M1336")
+office2_printer=Printer("EPSON","TM-C3520")
+
+deutschland_team=National_team("Germany","Europa")
+japan_team=National_team("japan","Asia")
+

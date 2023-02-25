@@ -1,0 +1,8 @@
+============ Ventoy2Disk.exe for x86_64/ARM/ARM64 =================
+Ventoy2Disk.exe is a x86_32 application and supports both 32-bit and 64-bit Windows PC with intel/amd processor.
+Since 1.0.58, Ventoy also provides Ventoy2Disk_X64.exe/Ventoy2Disk_ARM.exe/Ventoy2Disk_ARM64.exe you can use them if needed.
+These exe files are in altexe directory of the installation package.
+You must copy them to the upper directory to use them. (The same location with Ventoy2Disk.exe)
+
+
+==========
