@@ -1,5 +1,7 @@
 # Python基础
 
+[toc]
+
 ## Python简介
 
 1.程序员：
@@ -18,7 +20,7 @@
 
 例如，Windows，Linux，Unix。
 
-![计算机组成](./img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90.png))
+![计算机组成](./img/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90.png)
 
 4.硬件
 
